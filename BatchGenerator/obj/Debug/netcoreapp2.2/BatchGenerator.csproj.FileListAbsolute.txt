@@ -1,0 +1,14 @@
+D:\Practice\MicroBatchingLibrary\BatchGenerator\bin\Debug\netcoreapp2.2\BatchGenerator.deps.json
+D:\Practice\MicroBatchingLibrary\BatchGenerator\bin\Debug\netcoreapp2.2\BatchGenerator.runtimeconfig.json
+D:\Practice\MicroBatchingLibrary\BatchGenerator\bin\Debug\netcoreapp2.2\BatchGenerator.runtimeconfig.dev.json
+D:\Practice\MicroBatchingLibrary\BatchGenerator\bin\Debug\netcoreapp2.2\BatchGenerator.dll
+D:\Practice\MicroBatchingLibrary\BatchGenerator\bin\Debug\netcoreapp2.2\BatchGenerator.pdb
+D:\Practice\MicroBatchingLibrary\BatchGenerator\bin\Debug\netcoreapp2.2\BatchingLibrary.Core.dll
+D:\Practice\MicroBatchingLibrary\BatchGenerator\bin\Debug\netcoreapp2.2\BatchingLibrary.Core.pdb
+D:\Practice\MicroBatchingLibrary\BatchGenerator\obj\Debug\netcoreapp2.2\BatchGenerator.csprojAssemblyReference.cache
+D:\Practice\MicroBatchingLibrary\BatchGenerator\obj\Debug\netcoreapp2.2\BatchGenerator.csproj.CoreCompileInputs.cache
+D:\Practice\MicroBatchingLibrary\BatchGenerator\obj\Debug\netcoreapp2.2\BatchGenerator.AssemblyInfoInputs.cache
+D:\Practice\MicroBatchingLibrary\BatchGenerator\obj\Debug\netcoreapp2.2\BatchGenerator.AssemblyInfo.cs
+D:\Practice\MicroBatchingLibrary\BatchGenerator\obj\Debug\netcoreapp2.2\BatchGenerator.csproj.CopyComplete
+D:\Practice\MicroBatchingLibrary\BatchGenerator\obj\Debug\netcoreapp2.2\BatchGenerator.dll
+D:\Practice\MicroBatchingLibrary\BatchGenerator\obj\Debug\netcoreapp2.2\BatchGenerator.pdb

@@ -1,0 +1,14 @@
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\bin\Debug\netcoreapp2.2\BatchingLibrary.Main.deps.json
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\bin\Debug\netcoreapp2.2\BatchingLibrary.Main.runtimeconfig.json
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\bin\Debug\netcoreapp2.2\BatchingLibrary.Main.runtimeconfig.dev.json
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\bin\Debug\netcoreapp2.2\BatchingLibrary.Main.dll
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\bin\Debug\netcoreapp2.2\BatchingLibrary.Main.pdb
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\bin\Debug\netcoreapp2.2\BatchingLibrary.Core.dll
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\bin\Debug\netcoreapp2.2\BatchingLibrary.Core.pdb
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\obj\Debug\netcoreapp2.2\BatchingLibrary.Main.csprojAssemblyReference.cache
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\obj\Debug\netcoreapp2.2\BatchingLibrary.Main.csproj.CoreCompileInputs.cache
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\obj\Debug\netcoreapp2.2\BatchingLibrary.Main.AssemblyInfoInputs.cache
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\obj\Debug\netcoreapp2.2\BatchingLibrary.Main.AssemblyInfo.cs
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\obj\Debug\netcoreapp2.2\BatchingLibrary.Main.csproj.CopyComplete
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\obj\Debug\netcoreapp2.2\BatchingLibrary.Main.dll
+D:\Practice\MicroBatchingLibrary\BatchingLibrary.Main\obj\Debug\netcoreapp2.2\BatchingLibrary.Main.pdb

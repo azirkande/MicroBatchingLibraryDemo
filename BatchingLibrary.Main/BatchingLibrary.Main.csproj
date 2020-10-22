@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>BatchingLibrary.Main</AssemblyName>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <InternalsAssemblyNames>BatchingLibrary.Core</InternalsAssemblyNames>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BatchingLibrary.Core\BatchingLibrary.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>System</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
