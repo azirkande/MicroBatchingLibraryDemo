@@ -29,7 +29,6 @@ All the components below are designed considering Single responsibility.
 
 ### BatchingLibrary.Core :
 This project holds the common stuff to be shared across other Libraries. Rightnow it contains dummy database modals. In the production it would be ORM model's entities.
-This lib has a method to configure the batch settings like size and  maximum time between calls.
 
 ### BatchingLibrary.Main: 
 This is library can be consumed by API. Due to time constraints just created it as a Library, but ideally it should be consumed by an API and expose the methods
