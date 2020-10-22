@@ -12,14 +12,20 @@ requirements:
 processed. 
 
 
+
 ### Assumptions
 - If there are no enough jobs to batch then Batch won't be created.
 - I did not understand what shutdown method means, so I assume it as a method which gives user details about messages processed so far.
 - The maximum time between calls is used as latency to send next batch to BatchProcessor.
 
+### Enhancements
+- Use of IOC container libs. Right now used new to initialized objects
+- Use of Logger. Use of Serilog to create structured log which can be further used to improve observability.
+- Implement something further to handle failed tasks.
+
 ## Components:
 
-All the components below are designed considering Single responsibility.
+All the components below are designed considering Single responsibility. 
 
 ### BatchingLibrary.Core :
 This project holds the common stuff to be shared across other Libraries. Rightnow it contains dummy database modals. In the production it would be ORM model's entities.
