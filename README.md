@@ -14,8 +14,8 @@ processed.
 
 
 ### Assumptions
-- If there are no enough jobs to batch then Batch won't be created.
-- I did not understand what shutdown method means, so I assume it as a method which gives user details about messages processed so far.
+- If there are not enough jobs to batch then Batch won't be created.
+- I did not understand what shutdown method means, so I assume it as a method which gives details about messages processed so far.
 - The maximum time between calls is used as latency to send next batch to BatchProcessor.
 
 ### Enhancements
