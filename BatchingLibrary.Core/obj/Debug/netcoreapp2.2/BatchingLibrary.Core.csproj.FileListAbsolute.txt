@@ -1,9 +1,0 @@
-D:\Practice\MicroBatchingLibrary\BatchingLibrary.Core\bin\Debug\netcoreapp2.2\BatchingLibrary.Core.deps.json
-D:\Practice\MicroBatchingLibrary\BatchingLibrary.Core\bin\Debug\netcoreapp2.2\BatchingLibrary.Core.dll
-D:\Practice\MicroBatchingLibrary\BatchingLibrary.Core\bin\Debug\netcoreapp2.2\BatchingLibrary.Core.pdb
-D:\Practice\MicroBatchingLibrary\BatchingLibrary.Core\obj\Debug\netcoreapp2.2\BatchingLibrary.Core.csproj.CoreCompileInputs.cache
-D:\Practice\MicroBatchingLibrary\BatchingLibrary.Core\obj\Debug\netcoreapp2.2\BatchingLibrary.Core.AssemblyInfoInputs.cache
-D:\Practice\MicroBatchingLibrary\BatchingLibrary.Core\obj\Debug\netcoreapp2.2\BatchingLibrary.Core.AssemblyInfo.cs
-D:\Practice\MicroBatchingLibrary\BatchingLibrary.Core\obj\Debug\netcoreapp2.2\BatchingLibrary.Core.dll
-D:\Practice\MicroBatchingLibrary\BatchingLibrary.Core\obj\Debug\netcoreapp2.2\BatchingLibrary.Core.pdb
-D:\Practice\MicroBatchingLibrary\BatchingLibrary.Core\obj\Debug\netcoreapp2.2\BatchingLibrary.Core.csprojAssemblyReference.cache
